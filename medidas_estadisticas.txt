@@ -1,0 +1,9 @@
+Media aritmética: 7.13
+Mediana: 7.21
+Moda: 7.82
+Varianza: 0.64
+Desviación estándar: 0.80
+
+
+
+
